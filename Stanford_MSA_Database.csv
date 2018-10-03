@@ -1,0 +1,336 @@
+case,id,st,gender,race,mental,social,yes_bin,shooter
+1,University of Texas at Austin,Texas,Male,White American or European American,1,1,1,yes
+2,Rose-Mar College of Beauty,Arizona,Male,White American or European American,1,1,1,yes
+3,New Orleans Police Shootings,Louisiana,Male,Black American or African American,1,0,1,yes
+4,Clara Barton Elementary School,Illinois,Male,Unknown,1,1,1,yes
+5,Olean High School,New York,Male,White American or European American,1,1,1,yes
+6,Los Angeles Computer Learning Center,California,Male,White American or European American,0,1,1,yes
+7,Cal State Fullerton,California,Male,White American or European American,1,1,1,yes
+8,Grover Cleveland Elementary School,California,Female,White American or European American,1,0,1,yes
+9,University of South Carolina,South Carolina,Male,Black American or African American,0,0,1,yes
+10,Valley High School,Nevada,Male,White American or European American,1,1,1,yes
+11,Welding shop in Miami,Florida,Male,White American or European American,1,1,1,yes
+12,Wah Mee Club in Seattle,Washington,Male,Asian American,0,1,1,yes
+13,Johnston Post Office,South Carolina,Male,White American or European American,1,1,1,yes
+14,49th Street Elementary School,California,Male,Black American or African American,1,1,1,yes
+15,Ianni's Club in Dallas,Texas,Male,White American or European American,1,1,1,yes
+16,McDonald's restaurant in San Ysidro,California,Male,White American or European American,1,1,1,yes
+17,Goddard Junior High School,Kansas,Male,White American or European American,1,1,1,yes
+18,Atlanta Post Office,Georgia,Male,Black American or African American,1,1,1,yes
+19,New York Technical College,New York,Male,Black American or African American,1,0,1,yes
+20,"Post office in Edmond, Oklahoma",Oklahoma,Male,White American or European American,1,1,1,yes
+21,Fergus County High School,Montana,Male,White American or European American,1,1,1,yes
+22,Palm Bay Shopping Centers,Florida,Male,White American or European American,1,1,1,yes
+23,Pinellas Park High School,Florida,Male,White American or European American,0,1,1,yes
+24,Electromagnetic Systems Laboratory (ESL),California,Male,White American or European American,1,1,1,yes
+25,Hubbard Woods Elementary School,Illinois,Female,White American or European American,1,1,1,yes
+26,Comet Auto Parts and Montefiore School,Illinois,Male,Black American or African American,1,0,1,yes
+27,Oakland Elementary School,South Carolina,Male,White American or European American,1,1,1,yes
+28,New Orleans Downtown Post Office,Louisiana,Male,Unknown,0,1,1,yes
+29,Cleveland Elementary School,California,Male,White American or European American,1,1,1,yes
+30,Orange Glenn Post Office,California,Male,White American or European American,0,0,0,not
+31,Standard Gravure Corporation,Kentucky,Male,White American or European American,1,1,1,yes
+32,GMAC Loan Office,Florida,Male,Black American or African American,0,1,1,yes
+33,University of Iowa,Iowa,Male,Asian American,0,1,1,yes
+34,Ridgewood Post Office,New Jersey,Male,Black American or African American,1,1,1,yes
+35,"Luby's Cafeteria in Killeen, Texas",Texas,Male,White American or European American,1,0,1,yes
+36,Royal Oak Post Office,Michigan,Male,White American or European American,1,1,1,yes
+37,Lindhurst High School,California,Male,White American or European American,1,1,1,yes
+38,Palo Duro High School,Texas,Male,Unknown,0,1,1,yes
+39,Schuyler County Office Building,New York,Male,White American or European American,0,1,1,yes
+40,Simon's Rock College of Bard,Massachusetts,Male,Asian American,0,1,1,yes
+41,Offices of Pettit & Martin in San Francisco,California,Male,White American or European American,0,1,1,yes
+42,Dearborn Post Office,Michigan,Male,Unknown,0,1,1,yes
+43,Dana Point Post Office,California,Male,White American or European American,1,1,1,yes
+44,Weber State University,Utah,Male,Asian American,0,1,1,yes
+45,Luigi's Restaurant in Fayetteville,North Carolina,Male,White American or European American,0,1,1,yes
+46,Central Middle School,Wyoming,Male,White American or European American,0,1,1,yes
+47,Long Island Rail Road Commuter Train,New York,Male,Black American or African American,0,1,1,yes
+48,Chuck E. Cheese in Aurora,Colorado,Male,Black American or African American,1,1,1,yes
+49,Chelsea High School,Michigan,Male,White American or European American,1,1,1,yes
+50,"Residence in Union, Kentucky",Kentucky,Male,White American or European American,0,1,1,yes
+51,Fairchild Air Force Base Hospital,Washington,Male,White American or European American,1,1,1,yes
+52,Wickliffe Middle School,Ohio,Male,White American or European American,1,0,1,yes
+53,Downtown Chapel Hill,North Carolina,Male,White American or European American,1,0,1,yes
+54,Montclair Post Office,New Jersey,Male,White American or European American,0,1,1,yes
+55,Walter Rossler Company,Texas,Male,Unknown,0,1,1,yes
+56,Richland High School,Tennessee,Male,White American or European American,1,1,1,yes
+57,Frontier Junior High School,Washington,Male,White American or European American,1,1,1,yes
+58,Fort Lauderdale City Parks Office,Florida,Male,Black American or African American,0,1,1,yes
+59,San Diego State University,California,Male,White American or European American,0,1,1,yes
+60,Bethel Regional High School,Alaska,Male,White American or European American,1,1,1,yes
+61,R.E. Phelon Company,South Carolina,Male,Black American or African American,0,1,1,yes
+62,Pearl High School,Mississippi,Male,White American or European American,1,1,1,yes
+63,Heath High School,Kentucky,Male,White American or European American,1,0,1,yes
+64,Milwaukee Post Office,Wisconsin,Male,Black American or African American,0,1,1,yes
+65,Caltrans Maintenance Yard,California,Male,Some other race,0,1,1,yes
+66,Connecticut State Lottery Headquarters,Connecticut,Male,White American or European American,1,1,1,yes
+67,Westside Middle School,Arkansas,Male,White American or European American,0,1,1,yes
+68,Parker Middle School Dance,Pennsylvania,Male,White American or European American,1,0,1,yes
+69,Thurston High School,Oregon,Male,White American or European American,1,0,1,yes
+70,Riverside City Hall,California,Male,Black American or African American,0,1,1,yes
+71,Columbine High School,Colorado,Male,White American or European American,1,1,1,yes
+72,Heritage High School,Georgia,Male,White American or European American,0,1,1,yes
+73,Offices of All-Tech Investment Group and Momentum Securities,Georgia,Male,White American or European American,1,1,1,yes
+74,Wedgwood Baptist Church,Texas,Male,White American or European American,1,0,1,yes
+75,Xerox Office Building,Hawaii,Male,Asian American,1,1,1,yes
+76,Fort Gibson Middle School,Oklahoma,Male,White American or European American,0,0,0,not
+77,Radisson Bay Harbor Inn,Florida,Male,Some other race,0,0,0,not
+78,Edgewater Technology,Massachusetts,Male,Some other race,0,1,1,yes
+79,Navistar International,Illinois,Male,Black American or African American,0,1,1,yes
+80,Santana High School,California,Male,White American or European American,0,1,1,yes
+81,Appalachian School of Law,Virginia,Male,Black American or African American,0,1,1,yes
+82,University of Arizona College of Nursing,Arizona,Male,Some other race,0,1,1,yes
+83,Case Western Reserve University,Ohio,Male,Asian American,0,1,1,yes
+84,Lockheed Martin,Mississippi,Male,White American or European American,1,0,1,yes
+85,Windy City Core Supply Warehouse,Illinois,Male,Some other race,0,1,1,yes
+86,"Birchwood, Wisconsin",Wisconsin,Male,Asian American,0,1,1,yes
+87,Damageplan show at the Alrosa Villa Nightclub,Ohio,Male,White American or European American,1,1,1,yes
+88,Living Church of God,Wisconsin,Male,White American or European American,0,1,1,yes
+89,Red Lake High School,Minnesota,Male,Native American or Alaska Native,1,1,1,yes
+90,Goleta Post Office,California,Female,White American or European American,1,1,1,yes
+91,"Party in Capitol Hill, Seattle",Washington,Male,White American or European American,0,1,1,yes
+92,Essex Elementary School,Vermont,Male,Black American or African American,1,1,1,yes
+93,Orange High School,North Carolina,Male,Some other race,1,1,1,yes
+94,Duquesne University,Pennsylvania,Male,Black American or African American,0,1,1,yes
+95,West Nickel Mines Amish School,Pennsylvania,Male,White American or European American,0,1,1,yes
+96,Trolley Square,Utah,Male,White American or European American,1,1,1,yes
+97,Springwater Trail High School,Oregon,Male,Some other race,0,1,1,yes
+98,Virginia Tech  Campus,Virginia,Male,Asian American,1,0,1,yes
+99,"Apartment in Crandon, Wisconsin",Wisconsin,Male,White American or European American,0,1,1,yes
+100,SuccessTech Academy,Ohio,Male,White American or European American,1,1,1,yes
+101,South Middle School Football Game,Michigan,Male,Black American or African American,0,1,1,yes
+102,Westroads Mall,Nebraska,Male,White American or European American,1,0,1,yes
+103,Youth With A Mission and New Life Church,Colorado,Male,White American or European American,1,1,1,yes
+104,Mojave High School Bus,Nevada,Male,Black American or African American,0,1,1,yes
+105,"Carnation, Washington",Washington,Male/Female,White American or European American,0,1,1,yes
+106,Kirkwood City Hall,Missouri,Male,Black American or African American,0,1,1,yes
+107,Northern Illinois University,Illinois,Male,White American or European American,1,1,1,yes
+108,Atlantis Plastics,Kentucky,Male,White American or European American,0,1,1,yes
+109,South Mountain Community College,Arizona,Male,Black American or African American,0,1,1,yes
+110,University of Central Arkansas,Arkansas,Male,Black American or African American,0,1,1,yes
+111,"Covina, California",California,Male,White American or European American,0,1,1,yes
+112,"Geneva County, Alabama",Alabama,Male,White American or European American,0,1,1,yes
+113,"Rivermark, Santa Clara, California",California,Male,Asian American,0,1,1,yes
+114,Pinelake Health and Rehab nursing home,North Carolina,Male,White American or European American,1,1,1,yes
+115,Immigration Services Center in Binghamton,New York,Male,Asian American,1,1,1,yes
+116,Fort Hood Army Base,Texas,Male,White American or European American,1,1,1,yes
+117,Parkland Coffee Shop,Washington,Male,Black American or African American,1,0,1,yes
+118,University of Alabama in Huntsville,Alabama,Female,White American or European American,0,1,1,yes
+119,Hartford Beer Distributors,Connecticut,Male,Black American or African American,0,1,1,yes
+120,"Tucson, Arizona",Arizona,Male,White American or European American,1,0,1,yes
+121,Youngstown State University,Ohio,Male,Black American or African American,0,1,1,yes
+122,Southern Union State Community College,Alabama,Male,White American or European American,1,1,1,yes
+123,Residences in Grand Rapids,Michigan,Male,Black American or African American,1,1,1,yes
+124,Carson City IHOP,Nevada,Male,Some other race,1,1,1,yes
+125,Salon Meritage,California,Male,White American or European American,1,1,1,yes
+126,Su Jung Health Sauna,Georgia,Male,Asian American,1,1,1,yes
+127,Chardon High School,Ohio,Male,White American or European American,1,1,1,yes
+128,Oikos University,California,Male,Asian American,1,1,1,yes
+129,"North Tulsa, Oklahoma",Oklahoma,Male,White American or European American,0,1,1,yes
+130,Cafe in Seattle,Washington,Male,White American or European American,1,1,1,yes
+131,University Heights Apartments in Auburn,Alabama,Male,Black American or African American,0,1,1,yes
+132,Movie Theater in Aurora,Colorado,Male,White American or European American,1,1,1,yes
+133,Sikh Temple in Wisconsin,Wisconsin,Male,White American or European American,0,1,1,yes
+134,Accent Signage Systems in Minneapolis,Minnesota,Male,White American or European American,1,1,1,yes
+135,The Spot Nightclub,Florida,Male,Black American or African American,0,1,1,yes
+136,Azana Spa in Brookfield,Wisconsin,Male,Black American or African American,0,1,1,yes
+137,Clackamas Town Center,Oregon,Male,Some other race,0,1,1,yes
+138,Sandy Hook Elementary School,Connecticut,Male,White American or European American,1,1,1,yes
+139,South Valley Residence,New Mexico,Male,Some other race,1,1,1,yes
+140,Phoenix Law Firm,Arizona,Male,White American or European American,0,1,1,yes
+141,Los Angeles Police Department,California,Male,Black American or African American,1,1,1,yes
+142,"Ladera Ranch, Santa Ana, Tustin and Orange",California,Male,White American or European American,1,0,1,yes
+143,Pinewood Village Apartments,Washington,Male,Black American or African American,0,1,1,yes
+144,Village of Manchester in Illinois,Illinois,Male,White American or European American,0,1,1,yes
+145,Santa Monica College,California,Male,White American or European American,1,0,1,yes
+146,Hialeah Apartments,Florida,Male,Some other race,1,1,1,yes
+147,Ross Township Supervisor Council Meeting,Pennsylvania,Male,White American or European American,0,1,1,yes
+148,Oklahoma City Residence,Oklahoma,Male,White American or European American,1,1,1,yes
+149,Washington Navy Yard,District of Columbia,Male,Black American or African American,1,0,1,yes
+150,Sparks Middle School,Nevada,Male,Some other race,0,1,1,yes
+151,St. Aloysius Church,Washington,Male,White American or European American,1,1,1,yes
+152,Wat Promkunaram Buddhist Temple,Arizona,Male,Asian American/Some other race,0,1,1,yes
+153,Tyler Courthouse,Texas,Male,Some other race,0,1,1,yes
+154,Mohawk and Herkimer Villages in New York,New York,Male,White American or European American,0,1,1,yes
+155,Los Angeles International Airport (LAX),California,Male,White American or European American,0,1,1,yes
+156,Homes in Desoto and Dallas,Texas,Male,Black American or African American,0,1,1,yes
+156,Centennial Hill Bar & Grill,Alabama,Male,Black American or African American,0,1,1,yes
+157,San Francisco Tenderloin,California,Male,Black American or African American,0,1,1,yes
+158,Fort Hood,Texas,Male,Some other race,1,1,1,yes
+159,Kennesaw FedEx,Georgia,Male,White American or European American,0,1,1,yes
+160,Isla Vista,California,Male,White American or European American,1,1,1,yes
+161,Seattle Pacific University,Washington,Male,Some other race,1,1,1,yes
+162,Nellis Plaza,Nevada,Male/Female,White American or European American,0,1,1,yes
+163,Bourbon Street New Orleans,Louisiana,Male,Two or more races,0,1,1,yes
+164,Albuquerque Auto Shop,New Mexico,Male,Some other race,0,1,1,yes
+165,Marysville-Pilchuck High School,Washington,Male,Native American or Alaska Native,0,1,1,yes
+166,Florida State University,Florida,Male,Black American or African American,1,1,1,yes
+167,Cedarville Rancheria Tribe,California,Female,Native American or Alaska Native,0,1,1,yes
+168,Massachusetts Abortion Clinic,Massachusetts,Male,White American or European American,1,1,1,yes
+168,Ensley Birmingham,Alabama,Male,Black American or African American,0,1,1,yes
+169,"Pennsburg, Souderton, Lansdale, Harleysville",Pennsylvania,Male,White American or European American,1,1,1,yes
+170,Memphis,Tennessee,Male,Black American or African American,0,1,1,yes
+173,Moscow,Idaho,Male,Asian American,0,0,0,not
+177,Queens,New York,Male,Black American or African American,0,1,1,yes
+178,LaGrange,Georgia,Male,White American or European American,0,0,0,not
+180,Omaha,Nebraska,Male,Black American or African American,0,1,1,yes
+181,Chapel Hill,North Carolina,Male,White American or European American,1,1,1,yes
+182,Monroeville Macy's,Pennsylvania,Male,Black American or African American,0,1,1,yes
+183,Moon Lake,Florida,Male/Female,White American or European American/Some other Race,1,1,1,yes
+184,Tyrone,Missouri,Male,White American or European American,0,1,1,yes
+185,Morgantown,West Virginia,Male,White American or European American,0,1,1,yes
+186,Douglasville,Georgia,Male,Black American or African American,0,1,1,yes
+187,McAvan's Pub,New York,Male,Black American or African American,0,1,1,yes
+188,Clarkesville,Georgia,Male,White American or European American,0,1,1,yes
+189,Killeen,Texas,Male,Black American or African American,0,1,1,yes
+190,Charlotte,North Carolina,Male,Some other race,1,1,1,yes
+191,Birmingham's Washington Park,Alabama,Male,Black American or African American,0,1,1,yes
+192,Tarboro,North Carolina,Male,Black American or African American,1,0,1,yes
+194,Brookhaven,Mississippi,Male,Black American or African American,0,1,1,yes
+195,Cottonwood,Alabama,Male,White American or European American,0,1,1,yes
+196,Mesa,Arizona,Male,White American or European American,1,1,1,yes
+197,Little Water,New Mexico,Male,Unknown,1,1,1,yes
+198,Panama City Beach,Florida,Male,Black American or African American,0,1,1,yes
+199,Tulsa,Oklahoma,Male,Asian American,0,1,1,yes
+200,Daytona Beach,Florida,Male,Black American or African American,0,1,1,yes
+201,Indianapolis,Indiana,Male,Unknown,0,1,1,yes
+202,Rome,Georgia,Male,Black American or African American,0,1,1,yes
+203,Phoenix,Arizona,Male,Some other race,0,1,1,yes
+204,Killeen,Texas,Male,Black American or African American,0,0,0,not
+205,Gates Pub,New York,Male,Black American or African American,1,1,1,yes
+207,Milwaukee,Wisconsin,Male,Unknown,0,1,1,yes
+208,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,Wisconsin,Male,Unknown,1,1,1,yes
+210,Tucson,Arizona,Male,Unknown,1,1,1,yes
+211,Club Maxey's,Illinois,Male,Black American or African American,0,0,0,not
+212,Cleveland,Ohio,Male,Unknown,0,1,1,yes
+213,Conyers,Georgia,Male,White American or European American,1,0,1,yes
+214,Deer Lodge,Montana,Male,White American or European American,0,1,1,yes
+215,Mother Emanuel AME Church,South Carolina,Male,White American or European American,1,1,1,yes
+216,Boom Boom Room,North Carolina,Male,Black American or African American/Unknown,1,1,1,yes
+218,Annual motorcycle event in Newark,New Jersey,Male,Black American or African American,0,1,1,yes
+219,Miami Gardens,Florida,Male,Black American or African American,0,1,1,yes
+221,River Forest,Illinois,Male,Unknown,0,1,1,yes
+222,"Amnicola Training Center, Chattanooga",Tennessee,Male,White American or European American,1,1,1,yes
+223,Suwanee,Georgia,Male,White American or European American,0,1,1,yes
+224,"Grand 16 Theatre, Louisiana",Louisiana,Male,White American or European American,1,1,1,yes
+225,"Houston, Texas",Texas,Male,Black American or African American,0,1,1,yes
+226,Parking lot near Boys and Girls Club,New York,Male,Black American or African American,0,1,1,yes
+227,Virginia WDBJ live TV interview shooting,Virginia,Male,Black American or African American,0,1,1,yes
+228,"Bristol, Tennessee",Tennessee,Male,White American or European American,0,1,1,yes
+229,"Clearbrook (Greenwood), Minnesota",Minnesota,Male,White American or European American,1,1,1,yes
+230,"Platte, South Dakota",South Dakota,Male,White American or European American,0,1,1,yes
+231,Umpqua Community College,Oregon,Male,Two or more races,1,1,1,yes
+232,Northern Arizona University at Flagstaff Campus,Arizona,Male,White American or European American,0,1,1,yes
+233,"King, North Carolina",North Carolina,Male,White American or European American,0,1,1,yes
+234,Hill Haven Event Center (Formerly Club CJ's),Georgia,Male,Black American or African American,0,1,1,yes
+235,"Colerain Township, Ohio",Ohio,Male,White American or European American,0,1,1,yes
+236,Colorado Springs,Colorado,Male,White American or European American,0,1,1,yes
+237,"Oakland, Maine",Maine,Male,Unknown,0,1,1,yes
+238,"Inglis, Florida",Florida,Male,White American or European American,0,1,1,yes
+239,"Waycross, GA",Georgia,Male,Black American or African American,1,0,1,yes
+240,"Jacksonville, Florida",Florida,Male,Black American or African American,0,1,1,yes
+241,"Tennessee Colony, Texas",Texas,Male,White American or European American,0,0,0,not
+242,"Columbus, Ohio",Ohio,Male,White American or European American,0,1,1,yes
+243,"Minneapolis, Minnesota",Minnesota,Male,White American or European American,0,1,1,yes
+244,"Colorado Springs, Colorado",Colorado,Male,White American or European American,1,0,1,yes
+245,"San Bernardino, California",California,Male/Female,Asian American,1,0,1,yes
+246,"Omaha, Nebraska",Nebraska,Male,Black American or African American,0,1,1,yes
+247,"Chesapeake, Virginia",Virginia,Male,White American or European American,1,0,1,yes
+248,"Orlando, Florida",Florida,Male,Some other race,0,1,1,yes
+249,"Iuka, Mississippi",Mississippi,Male,White American or European American,0,1,1,yes
+250,"Kalamazoo, Michigan",Michigan,Male,White American or European American,0,0,0,not
+251,"Glendale, Arizona",Arizona,Male,Two or more races,1,0,1,yes
+252,"Hesston, Kansas",Kansas,Male,Black American or African American,0,1,1,yes
+253,"Belfair, Washington",Washington,Male,White American or European American,1,1,1,yes
+254,"Woodbridge, Virginia",Virginia,Male,Black American or African American,0,1,1,yes
+255,"Chelsea, Massachusetts",Massachusetts,Male,Unknown,0,0,0,not
+256,"Kansas City, Kansas",Kansas,Male,Some other race,0,1,1,yes
+257,"Pittsburgh, Pennsylvania",Pennsylvania,Male,Unknown,0,1,1,yes
+258,"Plantation, Florida",Florida,Unknown,Unknown,0,0,1,yes
+259,"Louisville, Kentucky",Kentucky,Male,White American or European American,1,0,1,yes
+260,"Sherman, Texas",Texas,Male,Unknown,0,1,1,yes
+261,"Lawrenceburg, Tennessee",Tennessee,Male,Unknown,0,0,0,not
+262,"Louisburg, North Carolina",North Carolina,Male,Black American or African American,0,1,1,yes
+263,"Richmond, Virginia",Virginia,Male,Black American or African American,0,1,1,yes
+264,"Residence in Lakeland, Florida",Florida,Male,Black American or African American,0,1,1,yes
+265,"Roadside in Memphis, Tennessee",Tennessee,Unknown,Unknown,0,0,0,not
+266,"Wilmington, DE robbery",Delaware,Male,Black American or African American,0,1,1,yes
+267,"Gloucester County, VA, House Party",Virginia,Male,Black American or African American,0,0,0,not
+268,Florida family murder,Florida,Male,White American or European American,0,1,1,yes
+269,Los Angeles Drive-by,California,Unknown,Unknown,0,0,0,not
+270,"Perris, CA Mexican restaurant shooting",California,Male,Unknown,0,0,0,not
+271,"Chesapeake, VA Family Murder Suicide",Virginia,Male,White American or European American,0,0,0,not
+272,"Caroline County, VA Family Murder Suicide",Virginia,Male,Unknown,0,1,1,yes
+273,"Glendale, AZ House Party shooting",Arizona,Male,Unknown,0,1,1,yes
+274,New Orleans gas station shoot-out,Louisiana,Male,Black American or African American,0,1,1,yes
+275,"Tampa, FL Strip club shooting",Florida,Unknown,Unknown,0,1,1,yes
+276,"Los Angeles, CA street shooting",California,Unknown,Unknown,0,0,0,not
+277,Texas teen commits family murder suicide,Texas,Male,White American or European American,0,0,0,not
+278,Nightclub fight turns into shootout,New York,Unknown,Unknown,0,1,1,yes
+279,Michigan school shooting,Michigan,Male,Black American or African American,0,1,1,yes
+280,"Vallejo, CA car shooting",California,Unknown,Unknown,0,0,0,not
+281,Florida Hookah Bar Shooting,Florida,Unknown,Unknown,0,1,1,yes
+282,Kalamazoo Uber Driver Spree Killing,Michigan,Male,White American or European American,0,0,0,not
+283,Missouri Highway shooting,Missouri,Male,Black American or African American,0,1,1,yes
+284,Houston Drive-by,Texas,Unknown,Unknown,0,0,0,not
+285,Arizona Family Murder,Arizona,Male,White American or European American,0,0,0,not
+286,"Belfair, WA Family murder-suicide",Washington,Male,White American or European American,0,0,0,not
+287,Detroit Strip Club Shootout,Michigan,Male,Black American or African American,0,1,1,yes
+288,Riverside restaurant shooting,California,Male,Some other race,0,0,0,not
+289,Wichita Nightclub shooting,Kansas,Unknown,Unknown,0,0,0,not
+290,"Chelsea, MA empty apartment party shooting",Massachusetts,Male,Some other race,0,0,0,not
+291,"Roswell, GA Hookah shootout",Georgia,Male,Black American or African American,0,1,1,yes
+292,"Lafayette, LA drive by",Louisiana,Unknown,Unknown,0,0,0,not
+293,Kansas City Home Invasion,Kansas,Male,Some other race,0,0,0,not
+294,Wilkinsburg BBQ cookout shootout,Pennsylvania,Male,Unknown,0,0,0,not
+295,"Trenton, NJ sidewalk shooting",New Jersey,Unknown,Unknown,0,0,0,not
+296,Detroit Drive-by,Michigan,Unknown,Unknown,0,0,0,not
+297,"Elberton, Georgia murder-suicide",Georgia,Male,Unknown,0,1,0,not
+298,Florida Family celebration ends in shooting,Florida,Unknown,Unknown,0,0,0,not
+299,Atlanta Nightclub shooting,Georgia,Unknown,Unknown,0,1,0,not
+300,Wetumpka Drive-by,Alabama,Male,Black American or African American,0,0,0,not
+301,Spring Break Party shooting,Florida,Unknown,Unknown,0,0,1,yes
+302,"Louisville, KY Family Murder-Suicide",Kentucky,Male,White American or European American,1,0,1,yes
+303,"Sherman, TX Family murder-suicide",Texas,Male,White American or European American,0,1,1,yes
+304,"Greenhill, AL Family murder-suicide",Alabama,Male,White American or European American,1,0,1,yes
+305,"Albuquerque, NM Family restaurant shooting",New Mexico,Male,Asian American,0,0,0,not
+306,Chicago Birthday Party Bus Shooting,Illinois,Unknown,Unknown,0,0,0,not
+307,"Albuquerque, NM House party shooting",New Mexico,Male,White American or European American,0,1,1,yes
+308,"Memphis, TN gas station shooting",Tennessee,Unknown,Unknown,0,0,0,not
+309,Long Beach Street murder,California,Unknown,Unknown,0,0,0,not
+310,Chicago Rap video Shootout,Illinois,Unknown,Unknown,0,1,1,yes
+311,Texas family murder-suicide,Texas,Male,White American or European American,0,0,0,not
+312,Alabama highway random shooting,Alabama,Male,White American or European American,0,0,0,not
+313,Tire-Slashing revenge escalation,Maryland,Male,Black American or African American,0,1,1,yes
+314,"Halifax County, VA",Virginia,Male,Black American or African American,0,1,1,yes
+315,"Forestville, Maryland Drive-by",Maryland,Unknown,Unknown,0,0,1,yes
+316,"Ferguson, MO Drive by",Missouri,Unknown,Unknown,0,1,1,yes
+317,"Appling, GA family murder",Georgia,Male,Black American or African American,0,0,1,yes
+318,"Auburn, AL club shootout",Alabama,Male,Black American or African American,0,1,1,yes
+319,Nashville Music City Central shooting,Tennessee,Male,Black American or African American,0,0,1,yes
+320,"Murfreesboro, TN party shooting",Tennessee,Unknown,Unknown,0,1,1,yes
+321,"Florida Ex-wife, ex-girlfriend murder",Florida,Male,White American or European American,0,1,1,yes
+322,"Katy, Texas work retaliation murder",Texas,Male,White American or European American,0,1,1,yes
+323,"Card game ambush in Shreveport, Louisiana",Louisiana,Unknown,Unknown,0,0,1,yes
+324,"Allapattah, Florida street shooting",Florida,Unknown,Unknown,0,0,1,yes
+325,Federal Security Officer has day shooting rampage near Washington DC ,Maryland,Male,Some Other Race,0,1,1,yes
+326,"Montgomery, Alabama street shooting",Alabama,Unknown,Unknown,0,0,1,yes
+327,Detroit street shooting,Michigan,Male,Black American or African American,0,0,1,yes
+328,Austin Taco truck murder,Texas,Male,Some Other Race,0,1,1,yes
+329,Birmingham Domestic Dispute Murder,Alabama,Male,Black American or African American,0,1,1,yes
+330,Chicago bus stop ambush,Illinois,Male,Unknown,0,0,1,yes
+331,Chicago Family Murder Suicide,Illinois,Male,Black American or African American,0,0,1,yes
+332,Phoenix girlfriend murder and cop shootout,Arizona,Male,Some Other Race,0,0,0,not
+333,"Friend murder and fire coverup in Moultrie, GA",Georgia,Male,White American or European American,0,0,0,not
+334,Trailer park triple homocide in South Carolina,South Carolina,Male,Black American or African American,0,1,1,yes
+335,Graduation party drive by,Georgia,Male,Black American or African American,0,0,0,not
+336,"Stockton, CA murder",California,Male,White American or European American,0,0,0,not
+337,NYC Concert shooting,New York,Male,Black American or African American,0,1,1,yes
+338,Las Vegas sidewalk shooting,Nevada,Male,Black American or African American,0,1,1,yes
+339,Army vet shooting in Houston,Texas,Male,Some Other Race,1,0,1,yes
+340,Fort Warne drive by,Indiana,Unknown,Unknown,0,0,0,not
+341,Cape Coral Shooting Spree,Florida,Male,White American or European American,0,0,0,not
+342,"Webster, MN party shooting",Minnesota,Unknown,Unknown,0,1,1,yes
+343,Orlando Nightclub Massacre,Florida,Male,Some other race,0,0,0,not
+344,Nightclub Disput,South Carolina,Male,Black American or African American,0,1,1,yes
