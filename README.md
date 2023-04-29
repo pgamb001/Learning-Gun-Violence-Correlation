@@ -1,7 +1,7 @@
 # Learning-Gun-Violence-Correlation
 Collected data from gun violence record sources and used a classifier to determine 
 correlation between shootings and mental health issues. Ran multiple classifiers like 
-bagging, regression and decision tree andclustering algorithms like hierarchical, 
+bagging, regression and decision tree and clustering algorithms like hierarchical, 
 cobweb and kmeans. Predicition accuracy of 91% for race of shooter using decision tree 
 classifier and 85% using one class SVM classifier for Outliers. Used Java Spark for 
 preprocessing and Weka, sklearn for clustering.
